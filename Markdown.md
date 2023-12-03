@@ -1,6 +1,6 @@
 # Bike Sharing Dashboard :bike:
 
-## Setup Environment
+## Setup Environment 
 
 `conda activate main-ds`
 
