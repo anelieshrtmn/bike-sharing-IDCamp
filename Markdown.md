@@ -12,3 +12,4 @@
 
 ## Link Dashboard
 Link untuk dashboard bisa diakses [disini.](https://bike-sharing-idcamp-f6jad76q8jvyaaz4x3foaj.streamlit.app/)
+![Screenshot Dashboard](ss-dashboard.png)
